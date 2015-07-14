@@ -1,0 +1,203 @@
+
+#wrapper {
+	width:360px;
+	position:absolute;
+	left:35%;		
+	top:20%;
+} 
+.lfLabel {
+	font-family:Tahoma;
+	font-weight:bold;
+	font-size: 12px;
+	height:20px; 
+	vertical-align:middle;
+	text-align:right;
+	padding-right:5px;
+}
+.lfField {
+	font-family:Tahoma;
+	font-size: 12px;
+	width:200px;
+}
+.lfBtn {
+	float:left; 
+	width:100%; 
+	text-align:center;
+}
+.lfBtnlbl {
+	font-family:Tahoma;
+	font-size: 12px;
+	font-weight:bold;
+	cursor: pointer;
+}
+.lfHdr {
+	float:left; 
+	width:100%; 
+	font-family:Tahoma;
+	font-size: 14px;
+	font-weight:bold;
+	text-align:center;
+	background-color:white;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+.lfSep {
+	float:left; 
+	width:100%; 
+	height:2px; 
+	background-color:black;
+}
+.lfSep2 {
+	float:left; 
+	width:100%; 
+	height:20px; 
+	
+}
+
+.navBtn {
+	text-align: center; 
+	float:left;   
+	height:20px; 
+	
+	cursor: pointer;
+	
+}
+
+.navBtn:hover{
+	color:teal;	
+	background-image: url('');
+}
+
+
+.contentHDR {
+	width:535px; float:left; background-color: teal; height:20px; padding-top: 5px; color:white;
+}
+
+
+.contentHDRColA {
+	float:left; font-weight: bold; text-align: left;
+}
+
+.contentHDRColB {
+	float:left; font-weight: bold; text-align: left;
+}
+
+
+.contentHDRColC {
+	float:left; font-weight: bold; text-align: right;
+}
+.contentHDRColD {
+	float:left; font-weight: bold; text-align: right;
+}
+
+
+
+.contentRow {	
+	width:535px; 
+	float:left; 
+	height:16px; 
+	padding-top:2px; 
+	color:black; 
+	padding-left:5px; 
+	padding-bottom: 2px; 
+}
+
+.contentRowColA {
+	float:left; 		
+}
+.contentRowColB {
+	float:left; 		
+}
+.contentRowColC {
+	float:left; 	
+	text-align: right;		
+}
+.contentRowColD {
+	float:left; 	
+	text-align: right;	
+}
+
+.msgDiv { 
+	float: left;  
+	text-align: right; 
+	color: #B6365A;	
+}
+.headerBarMain {
+	float:left; 
+	text-align: left; 
+	color: black; 
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 12px; 
+	font-weight: bold;
+	height: 20px;
+	padding-top: 2px; 
+	padding-right: 5px;
+	background-color: #a3c1da;
+	padding-left: 0px;
+	 	
+}
+
+
+.toolBarTop {
+	
+	padding-top: 10px;
+	width: 140px; 
+	background-color:white; 
+	overflow:hidden;	
+	text-align:center;
+	
+}
+
+
+.mainBody {
+	padding-top: 10px;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 12px; 
+	height: 600px;
+	width: 550px;
+    background-color:white;
+	float:left;
+	
+}
+
+.toolBar {
+	
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 12px; 
+	height: 600px;
+	width: 230px;
+    background-color: white;
+	float:left;
+	
+}
+.delClass {
+	background-image: url("Images/drop-no.gif");
+	width: 16px;
+	height: 16px;
+	float: left;
+}
+
+.checkClass {
+	width: 20px;
+	height: 16px;
+	float: left;
+}
+
+
+.viewClass {
+	background-image: url("Images/leaf.gif");
+	width: 16px;
+	height: 16px;
+	float: left;
+}
+
+.actionDD {
+	width: 150px;
+	color: black;
+	font-size: 12px;	
+	
+	
+}
+
+

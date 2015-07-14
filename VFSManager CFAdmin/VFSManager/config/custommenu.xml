@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<menu>
+	<submenu label="Custom Server Settings">
+		<menuitem href="VFSManager/index.cfm" target="content">VFS Manager</menuitem>
+	</submenu>
+</menu>
